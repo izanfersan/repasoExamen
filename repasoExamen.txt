@@ -1,5 +1,13 @@
 repasando para el examen
 
+<<<<<<< HEAD
 
 
 volver a rama main
+=======
+repaso de crear una rama nueva
+
+
+
+modificaciones en rama2
+>>>>>>> rama2
