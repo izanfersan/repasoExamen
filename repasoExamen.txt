@@ -11,3 +11,10 @@ repaso de crear una rama nueva
 
 modificaciones en rama2
 >>>>>>> rama2
+
+
+
+
+rama3
+
+modificando rama3
